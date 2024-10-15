@@ -28,15 +28,13 @@ Get token from this api to insert to header of another api for authen
 The project was deployed using the AWS Elastic Beanstalk CLI eb init, eb create, and eb deploy commands:
 
 > eb init
-
 ![eb-init](https://github.com/flytthesky93/uda-course3-cloud-dev/blob/main/report_resource/deployment_screenshot/ebinit.png)
 
 > eb create
-
 ![eb-create](https://github.com/flytthesky93/uda-course3-cloud-dev/blob/main/report_resource/deployment_screenshot/ebcreate.png)
 
 > eb deploy
+![eb-deploy](https://github.com/flytthesky93/uda-course3-cloud-dev/blob/main/report_resource/deployment_screenshot/ebdeploy.png)
 
-![eb-init](https://github.com/flytthesky93/uda-course3-cloud-dev/blob/main/report_resource/deployment_screenshot/ebdeploy.png)
-
-
+> elastic beanstalk dashboard
+![eb-dashboard](https://github.com/flytthesky93/uda-course3-cloud-dev/blob/main/report_resource/deployment_screenshot/ebdashboard.png)
