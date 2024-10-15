@@ -17,6 +17,7 @@ Get token from this api to insert to header of another api for authen
 
 > Run api filter image:
 
+This api need a `bearer token` get from login api to use
 - Success
 ![run-filter-image](https://github.com/flytthesky93/uda-course3-cloud-dev/blob/main/report_resource/local_run/run-api-filter-image-local.png)
 
@@ -38,3 +39,8 @@ The project was deployed using the AWS Elastic Beanstalk CLI eb init, eb create,
 
 > elastic beanstalk dashboard
 ![eb-dashboard](https://github.com/flytthesky93/uda-course3-cloud-dev/blob/main/report_resource/deployment_screenshot/ebdashboard.png)
+![eb-dashboard](https://github.com/flytthesky93/uda-course3-cloud-dev/blob/main/report_resource/deployment_screenshot/ebdetaildashboard.png)
+
+## 3. Postman
+
+The postman file was stored in [here](https://github.com/flytthesky93/uda-course3-cloud-dev/tree/main/report_resource/postman)
